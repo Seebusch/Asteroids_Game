@@ -2,6 +2,12 @@
 
 Ein kleines Asteroids-Spiel in Python mit Pygame: Steuere ein Raumschiff, zerstöre Asteroiden, sammle Punkte und überstehe immer schwierigere Wellen.
 
+## Game Preview
+
+<p align="center">
+  <img src="assets/showcase/game_screen_2.png" alt="Asteroids (game preview)" width="520">
+</p>
+
 ## Funktionen in v1.0.0
 
 - Asteroiden in drei Größen: Große und mittlere Asteroiden zerfallen beim Treffer jeweils in zwei kleinere.
